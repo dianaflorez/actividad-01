@@ -1,10 +1,10 @@
-class A {
+
+class B {
   constructor() {
-      this.foo = '';
-      this.bar = '';
+      this.foob = '';
+      this.ejemplob = '';
   }
 
-  // Métodos getters y setters según necesidad
-}
+  // Métodos getters y setters según necesidmodule.exports = B;
 
-module.exports = A;
+module.exports = B;
