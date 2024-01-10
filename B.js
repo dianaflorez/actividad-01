@@ -1,10 +1,10 @@
-
 class B {
   constructor() {
       this.foob = '';
-      this.ejemplob = '';
+      this.barb = '';
   }
 
-  // Métodos getters y setters según necesidmodule.exports = B;
+  // Métodos getters y setters según necesidad
+}
 
 module.exports = B;
