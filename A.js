@@ -1,5 +1,6 @@
 class A {
   constructor() {
+      this.lorem = '';
       this.foo = '';
       this.bar = '';
   }
